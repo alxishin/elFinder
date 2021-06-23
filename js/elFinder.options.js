@@ -820,7 +820,7 @@ elFinder.prototype._options = {
 			// Exclude `displayTextLabel` setting UA type
 			labelExcludeUA: ['Mobile'],
 			// auto hide on initial open
-			autoHideUA: ['Mobile'],
+			//autoHideUA: ['Mobile'],
 			// Initial setting value of hide button in toolbar setting
 			defaultHides: ['home', 'reload'],
 			// show Preference button ('none', 'auto', 'always')
